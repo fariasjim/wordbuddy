@@ -35,10 +35,9 @@ Distribution: GitHub API for version control and automated release management.
     Run: Double-click the executable to start. No installation is necessary.
 
 📸 Preview
-
-    <img width="596" height="400" alt="image" src="https://github.com/user-attachments/assets/424ee58b-8aad-41a5-87c7-3bd104642c38" />
-	<img width="701" height="653" alt="image" src="https://github.com/user-attachments/assets/8e0fae43-f000-4003-93d6-92f03aa20e1f" />
-	<img width="700" height="662" alt="image" src="https://github.com/user-attachments/assets/664978c2-5578-41c8-b424-6286768228d0" />
+	<img width="596" height="400" alt="image" src="https://github.com/user-attachments/assets/f72b17da-9bef-40b2-927f-17ef98fcaf0c" />
+	<img width="701" height="653" alt="image" src="https://github.com/user-attachments/assets/65a9c1a0-e231-4f59-b41e-3893424dbda5" />
+	<img width="700" height="662" alt="image" src="https://github.com/user-attachments/assets/dd2e26b4-34aa-4180-868d-ca8331fd8c2b" />
 
 Startup Splash Screen	Main Operations Dashboard
 	
