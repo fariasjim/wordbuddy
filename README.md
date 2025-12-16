@@ -36,7 +36,9 @@ Distribution: GitHub API for version control and automated release management.
 
 📸 Preview
 
-    Note: Add your splash screen and main GUI screenshots here to demonstrate the interface to recruiters.
+    <img width="596" height="400" alt="image" src="https://github.com/user-attachments/assets/424ee58b-8aad-41a5-87c7-3bd104642c38" />
+	<img width="701" height="653" alt="image" src="https://github.com/user-attachments/assets/8e0fae43-f000-4003-93d6-92f03aa20e1f" />
+	<img width="700" height="662" alt="image" src="https://github.com/user-attachments/assets/664978c2-5578-41c8-b424-6286768228d0" />
 
 Startup Splash Screen	Main Operations Dashboard
 	
