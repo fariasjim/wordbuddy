@@ -1,6 +1,6 @@
 
 > [!NOTE] Important Notice
-> This Project is under an important maintenance and will be available soon.
+> This Project is under an important maintenance and will be available soon. Please Visit github.com/fariasjim/word_buddy
 
 # WordBuddy 📄✨
 
