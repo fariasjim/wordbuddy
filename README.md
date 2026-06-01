@@ -1,4 +1,8 @@
-WordBuddy 📄✨
+
+> [!NOTE] Important Notice
+> This Project is under an important maintenance and will be available soon.
+
+# WordBuddy 📄✨
 
 WordBuddy is a high-performance desktop automation suite designed to streamline complex operations on .docx and LaTeX files. It provides a professional GUI for researchers, educators, and data professionals to handle document translation and encoding conversions with zero setup required.
 
